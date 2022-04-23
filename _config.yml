@@ -10,9 +10,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appIcon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : "Find: Command+F for Camera"                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : "Find: Make Photos Searchable"                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free • no ads or in-app purchases
-app_description                           : Find text in real life, fast.
+app_description                           : An app to find text in real life.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 

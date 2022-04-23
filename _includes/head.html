@@ -9,7 +9,7 @@
 	{% else %}
 	<title class="pageTitle">Find: Command+F for Camera</title>
 	{% endif %}
-	
+
 	<meta name="description" content="{{ site.app_description }}">
 
 	<!--  Essential META Tags -->
@@ -27,8 +27,7 @@
 	<meta property="og:title" content="Find: Command+F for Camera">
 	<meta property="og:description"
 		content="Find text in real life, fast. Works with books, textbooks, and nutrition labels - anywhere as long as there's text.">
-	<meta property="og:image"
-		content="{{ '/assets/SocialPreview.png' | relative_url }}">
+	<meta property="og:image" content="{{ '/assets/SocialPreview.png' | relative_url }}">
 
 	<!-- Twitter -->
 	<meta name="twitter:card" content="summary">
@@ -68,17 +67,26 @@
 	<meta name="msapplication-TileColor" content="#FFFFFF">
 	<meta name="msapplication-TileImage" content="{{ '/assets/favicons/favicon-144.png' | relative_url }}">
 	<meta name="msapplication-config" content="{{ '/assets/favicons/browserconfig.xml' | relative_url }}">
+
+	<link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/favicons/apple-touch-icon.png' | relative_url }}">
+	<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicons/favicon-32x32.png' | relative_url }}">
+	<link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/favicons/favicon-16x16.png' | relative_url }}">
+	<link rel="manifest" href="/assets/favicons/site.webmanifest">
+	<meta name="msapplication-TileColor" content="#007eef">
+	<meta name="theme-color" content="#ffffff">
 	<!-- ****** faviconit.com favicons ****** -->
 
 	<!-- Smart App Banner -->
 	{% if site.enable_smart_app_banner %}
 	<!-- <meta name="apple-itunes-app" content="app-id={{ site.ios_app_id }}"> -->
-	<meta name="apple-itunes-app" content="app-id={{ site.ios_app_id }}, app-clip-bundle-id=com.ktkpiano.FindAppCommand.Clip">
+	<meta name="apple-itunes-app"
+		content="app-id={{ site.ios_app_id }}, app-clip-bundle-id=com.ktkpiano.FindAppCommand.Clip">
 	{% endif %}
 
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
 		integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 	<link rel="stylesheet" href="{{ '/main.css' | relative_url }}">
 
-	<script async defer data-website-id="3d741875-fc83-464e-9f90-3960389fac79" src="https://umami.unisontech.org/umami.js"></script>
+	<script async defer data-website-id="3d741875-fc83-464e-9f90-3960389fac79"
+		src="https://umami.unisontech.org/umami.js"></script>
 </head>

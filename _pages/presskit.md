@@ -6,9 +6,7 @@ page_order: 1
 ---
 
 # Press Kit
-Help Find grow! It's a pretty small app built by a one person team, but I'm working on it with everything I got. Want to join me in spreading the word?
-
-
+Help Find grow! I'm Andrew, the developer of this app. I'm the only one here so I really appreciate your help :D If you have any questions just message me on [Twitter](https://twitter.com/aheze0), [reddit](https://www.reddit.com/user/aheze), or [email](mailto:aheze@getfind.app).
 
 <div>
 <i class="iconTop fas fa-file-alt fa-stack-1x" style="position: relative; width: 40px; float: left; margin-top: -4px; margin-left: -8px; margin-right: 4px; font-size: 24px;"></i>
@@ -16,9 +14,14 @@ Help Find grow! It's a pretty small app built by a one person team, but I'm work
 <h2>Description</h2>
 </div>
 
-Find is a fast, focused iOS app that lets you find text in real life. It brings the power of Command + F to your phone's camera, balancing speed with awesome capability. I value ease-of-use just as much as your privacy, so there are no ads, trackers, or data being collected. 
+Find is an app to find text in real life. Look for text anywhere, whether that’s in screenshots, books, or even nutrition labels — all in real time. Search your entire photo library in a split second and organize it with stars. Find in real-time using the camera and speed through forms and worksheets. Create lists of allergies or dietary restrictions and find unwanted ingredients instantly. Find is faster than the human eye.
 
-Find is completely free and works 100% offline. The Optical Character Recognition that powers the core functionality uses on-device technology that's both fast and accurate. It annihilates the human eye, especially when processing hundreds of photos and producing results in seconds.
+
+Find was designed with privacy in mind, so all processes happen offline and nothing ever leaves your phone. There are no servers, no data collection, no analytics, and no internet connection is required.
+
+
+Find is a free app. It has no ads, subscriptions, or in-app purchases.
+
 
 <br>
 
@@ -31,7 +34,7 @@ Find is completely free and works 100% offline. The Optical Character Recognitio
 <table>
 <tr>
 <td>
-<a href="{{ '/assets/press/find-asset-kit.zip' | relative_url }}"> <h3>Download Asset Kit</h3></a>
+<a href="{{ '/assets/press/Find-Press-Kit.zip' | relative_url }}"> <h3>Download Press Kit</h3></a>
 
 </td>
 <td>
@@ -50,54 +53,34 @@ Find is completely free and works 100% offline. The Optical Character Recognitio
 <h2>Features</h2>
 </div>
 
-- Find text anywhere. Works with books, worksheets, nutrition labels, instruction manuals, sales reports, you name it!
-- Use the camera, or find from existing photos
-- Batch-find through multiple photos simultaneously
-- Cache photos to index them, so results will appear instantly the next time your find from them
-- Intuitive 3-tab design, which you can swipe between
-- Make and customize lists to group words together
-- Extended VoiceOver support, with photo transcripts, color pitches, and haptics
-- Fast, accurate, and free. No ads, subscriptions, or in-app purchases.
-- <details markdown="1"><summary>Even more</summary>
-
-  - Pausable camera preview with full-screen mode
-  - Flashlight
-  - Stats screen for quick, glanceable info
-  - Lists appear in the toolbar above the keyboard
-  - Use lists to scan nutrition labels for ingredients that you want to indulge in, or avoid
-  - Combine lists to filter words with contrasting highlight colors. Makes looking for vocab words much easier in school.
-  - Star photos to get to them faster
-  - Slider for filtering photos, between "Local," "Starred," "Cached," and "All"
-  - Save or cache photos directly in the paused camera preview
-
-  </details>  
-
-### Feature Spotlight: Lists
-Time is valuable. Leave the repetitive work of struggling through page after page to a machine, which is faster and makes less mistakes. With Lists, Find is more than just <kbd>Command</kbd> + <kbd>F</kbd>.
-
-<details>
-<summary>Lists - Group words together. Great for keeping an eye out for dietary restrictions or allergies.</summary> 
-
-<br>
-<img src="{{ '/assets/press/press-list.png' | relative_url }}" width="300">
-<br>
-</details>
-
-<details>
-<summary>Combine lists - use their highlight colors to sort apart words.</summary>
-
-<br>
-<img src="{{ '/assets/press/press-multipleLists.png' | relative_url }}" width="300">
-<br>
-</details>
-
-<details>
-<summary>Powerful and modern list builder - customize its words and appearance effortlessly.</summary>
-
-<br>
-<img src="{{ '/assets/press/press-listsBuilder.png' | relative_url }}" width="300">
-<br>
-</details>
+- Photos. The fastest way to find what you're looking for.
+  - Get results instantly as you type in the search bar.
+  - Organize photos with stars.
+  - Search in starred photos, screenshots, or all photos.
+  - Superfast scanning (~10 photos per second on iPhone 13).
+  - Ignore photos that you don't want Find to scan.
+  - Everything runs 100% offline and nothing ever leaves your device.
+- Camera. Scan through books and worksheets like they're nothing.
+  - Look for text in real-time.
+  - Find words in books, forms, and worksheets.
+  - Read nutrition labels automatically.
+  - Supports zoom, panning, and flash.
+  - Supports landscape mode.
+- Lists. Group words together and search for them all at the same time.
+  - Works great for allergies and other dietary restrictions.
+  - Supports sharing and importing lists via URL.
+  - Use Lists anywhere in the app - Photos, Camera, and Settings all work.
+- Search bar. I call it the Findbar™.
+  - Add multiple search bars — as many as you would like.
+  - Override highlight colors on-the-fly.
+- Settings. Customize extensively.
+  - Customize the default tab.
+  - Advanced finding options.
+  - Advanced highlight options.
+  - Change the size of photos.
+  - Optimize finding with the camera.
+  - Change how lists are sorted.
+- Supports VoiceOver and haptics.
 
 <br>
 
