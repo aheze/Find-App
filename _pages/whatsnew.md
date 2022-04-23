@@ -8,20 +8,44 @@ page_order: 0
 # What's New
 Check out Find's timeline! We've made a lot of progress.
 
-<div markdown="1" class="latest">
+<div markdown="1" class="latest highlight">
+
+###### Apr 22, 2022
+### `Ultra Major Release` • `Latest Release` • [`Download Now`](https://apps.apple.com/app/id1506500202)
+## **Version 2.0.0**
+
+
+<img src="{{ '/assets/Header.png' | relative_url }}" alt="Version 2.0 graphic">
+
+The biggest update to Find, ever.
+
+- Photos. The algorithm now delivers results instantly.
+- Camera. Now with zoom, panning, and landscape mode.
+- Lists. Check out the completely redesigned editor with sharing support.
+- Search bar. Add multiple bars and filter lists automatically.
+- Settings. Manage preferences in a brand-new interface.
+- Landscape mode. Use the app in any orientation.
+- Launch time. Find now launches almost 2x faster.
+- And much, much more.
+
+</div>
+
+<br>
+
+
 
 ###### Sep 29, 2021
-### `Latest Release` • [`Get It`](https://as.getfind.app)
 ## **Version 1.2.10**
 
-A couple bug fixes to make sure Find looks great on iOS 15.
+<details markdown="1">
+<summary>A couple bug fixes to make sure Find looks great on iOS 15.</summary>
 - Fixed - Transparent navigation bar when viewing photos
 - Fixed - Results too large when finding from photos
 - Fixed - Dark status bar when finding from photos
 - Fixed - Text too large in Settings
 
-Also - the v1.3 designs are complete! I'm currently at work converting them into actual code. If you have any suggestions, comments, or whatever, please let me know in the [Discord Server](https://discord.gg/Pmq8fYcus2).
-</div>
+Also - the v2.0 designs are complete! I'm currently at work converting them into actual code. If you have any suggestions, comments, or whatever, please let me know in the [Discord Server](https://discord.gg/Pmq8fYcus2).
+</details>
 
 <br>
 
