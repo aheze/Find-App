@@ -3,6 +3,8 @@ layout: page
 title: Help
 include_in_header: false
 page_order: 0
+is_hidden: true
+dont_include_footer: true
 ---
 
 # Help

@@ -4,7 +4,7 @@ ios_app_id                                : 1506500202                          
 
 include: [".well-known"]
 
-appstore_link                             : https://apps.apple.com/app/find-command-f-for-camera/id1506500202                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://apps.apple.com/app/id1506500202                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
@@ -29,37 +29,37 @@ background_404                            : assets/mountains.jpg
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : It's like Command+F, but for your camera
-    description                           : Ctrl+F if you prefer Windows
-    fontawesome_icon_name                 : search
-    
-  - title                                 : Works with anything
-    description                           : Books, textbooks, worksheets... literally anything.
-    fontawesome_icon_name                 : magic
-
-  - title                                 : Fast, accurate, free
-    description                           : Find is faster than the human eye.
-    fontawesome_icon_name                 : star
-
   - title                                 : Photos
-    description                           : Blast through hundreds of photos in minutes.
-    fontawesome_icon_name                 : images
+    description                           : Search hundreds of photos in seconds.
+    fontawesome_icon_name                 : search
 
-  - title                                 : Caching
-    description                           : Cache your photos for super-fast, super-accurate results.
-    fontawesome_icon_name                 : save
-  
+  - title                                 : Camera
+    description                           : It's like Live Text but on steroids.
+    fontawesome_icon_name                 : camera
+
   - title                                 : Lists
-    description                           : Group words together. Boost your efficiency.
+    description                           : Search for multiple words at the same time.
     fontawesome_icon_name                 : list
 
-  - title                                 : Combine lists
-    description                           : Look for multiple words at the same time. Great for vocab assignments.
-    fontawesome_icon_name                 : layer-group
+  - title                                 : Search Bar
+    description                           : Comes with advanced options.
+    fontawesome_icon_name                 : cog
 
-  - title                                 : Let Find read the nutrition label for you
-    description                           : Gluten-free? Have allergies? Gather them into a list, and Find will keep an eye out!
-    fontawesome_icon_name                 : cookie-bite
+  - title                                 : Works anywhere there is text
+    description                           : Books, forms, worksheets, nutrition labels...
+    fontawesome_icon_name                 : magic
+
+  - title                                 : Privacy built-in
+    description                           : 100% offline with no analytics or data collection.
+    fontawesome_icon_name                 : hand-paper
+
+  - title                                 : Fast, accurate, free
+    description                           : No ads, in-app purchases, subscriptions, etc.
+    fontawesome_icon_name                 : dollar-sign
+
+  - title                                 : It's actually so fast
+    description                           : Launches in a split second and produces results instantly.
+    fontawesome_icon_name                 : rocket
     
   - title                                 : Accessibility
     description                           : Full VoiceOver support with extended accessibility features.
@@ -93,8 +93,8 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#0096cc"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#007eef"
+feature_icons_background_color            : "#F2F2F2"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"

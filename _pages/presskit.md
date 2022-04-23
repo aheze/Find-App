@@ -6,7 +6,7 @@ page_order: 1
 ---
 
 # Press Kit
-Help Find grow! I'm Andrew, the developer of this app. I'm the only one here so I really appreciate your help :D If you have any questions just message me on [Twitter](https://twitter.com/aheze0), [reddit](https://www.reddit.com/user/aheze), or [email](mailto:aheze@getfind.app).
+Help Find grow! I'm Andrew, the developer of this app. I'm the only one here so I really appreciate your help :D If you have any questions just message me on [twitter](https://twitter.com/aheze0), [reddit](https://www.reddit.com/user/aheze), or [email](mailto:aheze@getfind.app).
 
 <div>
 <i class="iconTop fas fa-file-alt fa-stack-1x" style="position: relative; width: 40px; float: left; margin-top: -4px; margin-left: -8px; margin-right: 4px; font-size: 24px;"></i>
@@ -143,9 +143,8 @@ https://www.reddit.com/user/aheze
 <h2>About the Developer</h2>
 </div>
 
-Hi, I'm Andrew Zheng. I'm an iOS developer living in the SF Bay Area. Besides coding, I like to watch anime and read manga/light. I also teach piano.
+I'm Andrew Zheng, an iOS developer living in the SF Bay Area. Besides coding, I like to watch anime and play the piano.
 
 Find is my first and most fully-featured app. I originally built it to help out with school, but I think it's gotten to be pretty useful for stuff beyond that. But anyway, I'm very committed to user privacy. No one likes apps that sell your data. It's the same with outrageous subscriptions and unskippable ads. So, all of my apps don't collect data, have subscriptions, or ads.
 
-
-You can contact me anytime through [Reddit](https://www.reddit.com/user/aheze) DMs or [Discord](https://discord.com/invite/Pmq8fYcus2), or via [email](mailto:aheze@getfind.app).
+You can contact me anytime on [twitter](https://twitter.com/aheze0), [reddit](https://www.reddit.com/user/aheze), or [email](mailto:aheze@getfind.app).
