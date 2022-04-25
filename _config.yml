@@ -11,8 +11,8 @@ presskit_download_link                    :                                     
 
 app_icon                                  : assets/appIcon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : "Find: Make Photos Searchable"                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Free • no ads or in-app purchases
-app_description                           : An app to find text in real life.
+app_price                                 : An app to find text in real life.
+app_description                           : Look for text in screenshots, books, and even nutrition labels. Search your entire photo library, or use the camera and speed through forms and worksheets in seconds.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -76,7 +76,7 @@ topbar_color                              : "#0096cc"
 topbar_transparency                       : 0.0
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerImage.jpg                   # Replace with alternative image path or image URL.
+cover_image                               : assets/HeaderImage.jpg                   # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#004b66"
 cover_overlay_transparency                : 0.5
 
