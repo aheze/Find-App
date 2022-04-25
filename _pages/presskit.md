@@ -94,7 +94,7 @@ Find is a free app. It has no ads, subscriptions, or in-app purchases.
 
 {% include copy_header.html content="Find App Store URL" %}
 <pre class="link_block">
-https://apps.apple.com/app/find-command-f-for-camera/id1506500202
+https://apps.apple.com/app/id1506500202
 </pre>
 
 {% include copy_header.html content="Find App Store Shortlink" %}
@@ -110,6 +110,11 @@ https://getfind.app
 {% include copy_header.html content="Find Discord" %}
 <pre class="link_block">
 https://getfind.app/discord
+</pre>
+
+{% include copy_header.html content="Developer Twitter" %}
+<pre class="link_block">
+https://twitter.com/aheze0
 </pre>
 
 {% include copy_header.html content="Developer Reddit" %}
