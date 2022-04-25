@@ -54,7 +54,10 @@ The biggest update to Find, ever.
 <summary>Minor changes and bug fixes.</summary>
 - New loading indicator for the launch screen
 - Added a context menu to photos - long-press to open then
-- Fixed - Highlights offset slightly in camera
+- Fixed photos not update after existing the search bar
+- Updated the Share App button in Settings
+- Fixed highlights offset slightly in camera
+- Better orientation change handling in Camera
 
 </details>
 
