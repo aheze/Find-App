@@ -8,10 +8,10 @@ page_order: 0
 # What's New
 Check out Find's timeline! We've made a lot of progress.
 
-<div markdown="1" class="latest highlight">
+<div markdown="1" class="latest pinned">
 
 ###### Apr 22, 2022
-### `Ultra Major Release` • `Latest Release` • [`Download Now`](https://apps.apple.com/app/id1506500202)
+### `Ultra Major Release` • [`Download Now`](https://apps.apple.com/app/id1506500202)
 ## **Version 2.0.0**
 
 
@@ -33,6 +33,32 @@ The biggest update to Find, ever.
 <br>
 
 
+###### Apr 25, 2022
+### `Latest Release` 
+**Version 2.0.2**
+
+<details markdown="1">
+<summary>iCloud support and small improvements.</summary>
+
+- Find can now download photos stored in iCloud and scan them!
+- The camera status indicator now shows a tip when no text is entered.
+
+</details>
+
+<br>
+
+###### Apr 24, 2022
+## **Version 2.0.1**
+
+<details markdown="1">
+<summary>Minor changes and bug fixes.</summary>
+- New loading indicator for the launch screen
+- Added a context menu to photos - long-press to open then
+- Fixed - Highlights offset slightly in camera
+
+</details>
+
+<br>
 
 ###### Sep 29, 2021
 ## **Version 1.2.10**
