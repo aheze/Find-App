@@ -10,10 +10,12 @@ Check out Find's timeline! We've made a lot of progress.
 
 <div markdown="1" class="latest pinned">
 
-###### Apr 22, 2022
-### `Ultra Major Release` • [`Download Now`](https://apps.apple.com/app/id1506500202)
-## **Version 2.0.0**
 
+
+###### Apr 22, 2022
+
+### `Ultra Major Release` • [`Download Now!`](https://apps.apple.com/app/id1506500202)
+## **Version 2.0.0**
 
 <img src="{{ '/assets/Header.png' | relative_url }}" alt="Version 2.0 graphic">
 
@@ -33,13 +35,41 @@ The biggest update to Find, ever.
 <br>
 
 
-###### Apr 25, 2022
+###### May 14, 2022
 ### `Latest Release` 
-**Version 2.0.2**
+**Version 2.0.4**
+
+<details markdown="1">
+<summary>A couple improvements.</summary>
+
+- Supports huge photos libraries (like even if you have 20k+ Find should handle it)
+- Supports slanted text (so the app will work even if your photo is sideways)
+- New setting: Highlight Padding
+- Smoother animations due to a bug fix in [Popovers](https://github.com/aheze/Popovers/releases/tag/1.3.2)
+- Some easter eggs - try typing `/strawberry` or `/gradient` in a search bar. Thanks Eleni and Leo!
+
+
+</details>
+
+<br>
+
+
+###### Apr 27, 2022
+**Version 2.0.3**
+
+<details markdown="1">
+<summary>Bug fixes for iPad.</summary>
+
+- Fixes a crash when editing lists on iPad.
+
+
+</details>
+
+###### Apr 25, 2022
+## **Version 2.0.2**
 
 <details markdown="1">
 <summary>iCloud support and small improvements.</summary>
-
 - Find can now download photos stored in iCloud and scan them!
 - The camera status indicator now shows a tip when no text is entered.
 
@@ -60,6 +90,10 @@ The biggest update to Find, ever.
 - Better orientation change handling in Camera
 
 </details>
+
+<br>
+
+---
 
 <br>
 
