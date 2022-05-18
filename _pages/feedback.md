@@ -5,12 +5,11 @@ permalink: /feedback
 page_order: 4
 ---
 
+Thanks for sending feedback!
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-    <body>
+# [Suggest New Features](https://forms.gle/pQrSyRnp9ZP7SJXdA)
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScglFOLtU7wM93Ei3IX7l7JwSh88tjD_8_FR3QID3qoEDnGZQ/viewform?embedded=true" width="100%" height="1400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+# [Report A Bug](https://forms.gle/d4yb8tyfkCsY4rFn6)
 
-    </body> 
-</html>
+
