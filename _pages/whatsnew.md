@@ -15,7 +15,7 @@ Check out Find's timeline! We've made a lot of progress.
 ###### Apr 22, 2022
 
 ### `Ultra Major Release` • [`Download Now!`](https://apps.apple.com/app/id1506500202)
-## **Version 2.0.0**
+# **Version 2.0.0**
 
 <img src="{{ '/assets/Header.png' | relative_url }}" alt="Version 2.0 graphic">
 
@@ -35,10 +35,37 @@ The biggest update to Find, ever.
 <br>
 
 
-###### May 14, 2022
+###### May 22, 2022
 ### `Latest Release` 
-**Version 2.0.4**
+### Version 2.0.6
 
+Added a new launch screen!
+
+- Replaced the RealityKit launch screen with a pure SwiftUI one.
+    - This makes loading much faster.
+- Fixed a bug where photos wouldn't appear with Display Zoom enabled.
+- Added a link to help translate Find. (thank you!)
+- Updated the share screen
+
+<br>
+
+
+###### May 20, 2022
+### Version 2.0.5
+
+<details markdown="1">
+<summary>More optimization for huge photo libraries.</summary>
+
+- Photos is now up to 6x faster than v2.0.4.
+
+
+</details>
+
+
+<br>
+
+###### May 14, 2022
+### Version 2.0.4
 <details markdown="1">
 <summary>A couple improvements.</summary>
 
@@ -55,7 +82,7 @@ The biggest update to Find, ever.
 
 
 ###### Apr 27, 2022
-**Version 2.0.3**
+### Version 2.0.3
 
 <details markdown="1">
 <summary>Bug fixes for iPad.</summary>
@@ -65,8 +92,10 @@ The biggest update to Find, ever.
 
 </details>
 
+<br>
+
 ###### Apr 25, 2022
-## **Version 2.0.2**
+### Version 2.0.2
 
 <details markdown="1">
 <summary>iCloud support and small improvements.</summary>
@@ -78,7 +107,7 @@ The biggest update to Find, ever.
 <br>
 
 ###### Apr 24, 2022
-## **Version 2.0.1**
+### Version 2.0.1
 
 <details markdown="1">
 <summary>Minor changes and bug fixes.</summary>
@@ -98,7 +127,7 @@ The biggest update to Find, ever.
 <br>
 
 ###### Sep 29, 2021
-## **Version 1.2.10**
+### Version 1.2.10
 
 <details markdown="1">
 <summary>A couple bug fixes to make sure Find looks great on iOS 15.</summary>
@@ -113,7 +142,7 @@ Also - the v2.0 designs are complete! I'm currently at work converting them into
 <br>
 
 ###### June 17, 2021
-## **Version 1.2.9**
+### Version 1.2.9
 <details markdown="1">
 <summary>Check out the enhanced camera!</summary>
 - Photos that you take are now always clear and produce incredibly accurate results
@@ -122,7 +151,7 @@ Also - the v2.0 designs are complete! I'm currently at work converting them into
 </details>
 
 ###### June 9, 2021
-## **Version 1.2.8**
+### Version 1.2.8
 
 <details markdown="1">
 <summary>A couple features to make Find even more useful.</summary>
@@ -139,7 +168,7 @@ Also - the v2.0 designs are complete! I'm currently at work converting them into
 <br>
 
 ###### April 1, 2021
-## **Version 1.2.7**
+### Version 1.2.7
 
 <details markdown="1">
 <summary>Thank you, <a href="https://www.reddit.com/r/iphone/comments/maot5p/find_an_app_that_lets_you_do_commandf_but_in_the/">r/iPhone</a>, for your amazing feedback!</summary>
@@ -180,7 +209,7 @@ Here's the current roadmap for future updates:
 <br>
 
 ###### March 13, 2021
-## **Version 1.2.6**
+### Version 1.2.6
 
 <details markdown="1">
 <summary>Fixed some stuff. Now that Find has a website (this one!), I linked it in the app too.</summary>
@@ -195,7 +224,7 @@ Here's the current roadmap for future updates:
 <br>
 
 ###### March 7, 2021
-## **Version 1.2.5**
+### Version 1.2.5
 
 <details markdown="1">
 <summary>Some much-needed changes here.</summary>
@@ -217,7 +246,7 @@ Here's the current roadmap for future updates:
 <br>
 
 ###### February 25, 2021
-## **Version 1.2.4**
+### Version 1.2.4
 
 <details markdown="1">
 <summary>Find is a lot more stable now!</summary>
@@ -240,7 +269,7 @@ Here's the current roadmap for future updates:
 <br>
 
 ###### February 13, 2021
-## **Version 1.2.3**
+### Version 1.2.3
 
 <details markdown="1">
 <summary>Pushed the last release a bit too hurriedly.</summary>
@@ -253,7 +282,7 @@ Here's the current roadmap for future updates:
 <br>
 
 ###### February 12, 2021
-## **Version 1.2.2**
+### Version 1.2.2
 
 <details markdown="1">
 <summary>Some general improvements.</summary>
@@ -272,13 +301,13 @@ Here's the current roadmap for future updates:
 <br>
 
 ###### February 6, 2021
-## **Version 1.2.1**
+### Version 1.2.1
 
 <details markdown="1">
 <summary>Find is now only ~30mb (may vary depending on your device).</summary>
 
 #### Bug Fixes
-- I accidentally left a couple testing images in the app bundle. Combined, that added an extra 40 mb 😳 ...
+- I accidentally left a couple testing images in the app bundle. Combined, that added an extra 40 mb...
 
 </details>
 
@@ -368,7 +397,7 @@ Well, that’s pretty much all! And Find is still completely free with no ads, e
 <br>
 
 ###### October 23, 2020
-## **Version 1.1.5**
+### Version 1.1.5
 
 <details markdown="1">
 <summary>The order of the screenshots got messed up, so I fixed them in this patch.</summary>
@@ -381,7 +410,7 @@ Well, that’s pretty much all! And Find is still completely free with no ads, e
 <br>
 
 ###### October 21, 2020
-## **Version 1.1.4**
+### Version 1.1.4
 
 
 <details markdown="1">
@@ -395,7 +424,7 @@ Well, that’s pretty much all! And Find is still completely free with no ads, e
 <br>
 
 ###### September 19, 2020
-## **Version 1.1.3**
+### Version 1.1.3
 
 <details markdown="1">
 <summary>Minor updates!</summary>
@@ -408,7 +437,7 @@ Well, that’s pretty much all! And Find is still completely free with no ads, e
 <br>
 
 ###### July 30, 2020
-## **Version 1.1.2**
+### **Version 1.1.2
 
 <details markdown="1">
 <summary>More general improvements.</summary>
@@ -422,7 +451,7 @@ Well, that’s pretty much all! And Find is still completely free with no ads, e
 <br>
 
 ###### July 8, 2020
-## **Version 1.1.1**
+### **Version 1.1.1
 
 <details markdown="1">
 <summary>Visual improvements and minor bug fixes.</summary>
@@ -468,7 +497,7 @@ Well, that’s pretty much all! And Find is still completely free with no ads, e
 <br>
 
 ###### April 21, 2020
-## **Version 1.0.2**
+### Version 1.0.2
 
 <details markdown="1">
 <summary>More general bug fixes and improvements. I had some trouble with the build number, but it turned out fine!</summary>
@@ -492,7 +521,7 @@ Well, that’s pretty much all! And Find is still completely free with no ads, e
 <br>
 
 ###### April 14, 2020
-## **Version 1.0.1**
+### Version 1.0.1
 
 <details markdown="1">
 
@@ -522,7 +551,7 @@ Well, that’s pretty much all! And Find is still completely free with no ads, e
 
 ###### April 6, 2020
 ### `Initial Release`
-# **Version 1.0**
+### Version 1.0
 After almost an year, Find is here! Thanks to everyone who supported me. Without you guys, Find would have just been a fleeting idea.
 
 <br>
