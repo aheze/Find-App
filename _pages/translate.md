@@ -9,6 +9,11 @@ is_hidden: true
 # Translate Find
 Help translate Find!
 
+**Update July 30, 2022**
+iOS 16 will introduce text search in Photos, which makes the current version of Find almost useless (I got sherlocked 😢).
+So, I'm working on Find v3.0 right now. In about 3 weeks I'll have the base foundation done. ([Sneak peeks on my Twitter](https://twitter.com/aheze0)).
+Thanks to those who've signed up already!
+
 **Update May 22, 2022**
 I'm still working on gathering all the strings in the app. I should be done in a couple days. In the meantime, join the [Discord server](https://discord.com/invite/Pmq8fYcus2)?
 
