@@ -42,10 +42,10 @@ Here's an example of what you'll see for each word to translate.
 1. The string identifier used in the source code.
 2. The default English translation.
 3. Some comments that I've added for context.
-4. A screenshot for reference. I'll usually add these when the word's purpose is confusing.
+4. A screenshot for reference. I'll usually add these whenever a word's purpose is really confusing.
 5. The translation that you submit.
 
-The string identifier uses dot syntax — you can kind of figure out where the word appears in the app just from this. 
+The string identifier uses dot syntax and represents where the word appears in the app.
 
 
 > Some words like "Add" or "Cancel" appear all over the place, so they'll be prefixed with `Shared` (e.x. `Shared.Add`).
