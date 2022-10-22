@@ -8,7 +8,7 @@ is_hidden: false
 
 # Translate Find
 
-OpenFind is not currently accepting translations. However, you can help translate Find, OpenFind's successor!
+OpenFind is not currently accepting translations. However, you can help translate [Find](https://getfind.app/), OpenFind's successor!
 
 ***Find** is currently closed source.*
 

@@ -1,4 +1,4 @@
-This is the website for Find, an iOS app that lets you find text in real life. Live website at [getfind.app](https://getfind.app/).
+This is the website for OpenFind, an iOS app that lets you find text in real life. Live website at [open.getfind.app](https://open.getfind.app/).
 
 ## Generated from [emilbaehr/automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page)
 
