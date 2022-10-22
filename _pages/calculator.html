@@ -1,0 +1,64 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.slidecontainer {
+  width: 100%;
+}
+
+</style>
+</head>
+<body>
+
+<h1>Estimate development time for Find</h1>
+
+<p>Number of Andrews</p>
+
+<div class="slidecontainer">
+  <input type="range" min="1" max="100" value="1" id="slider">
+  
+    <p>Number: <span id="output"></span></p>
+</div>
+
+<button onclick="calculate()">Calculate</button>
+
+<p id="calculating" style="display:none;">Calculating...</p>
+
+<script>
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function calculate() {
+  var x = document.getElementById("calculating");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+  
+        await sleep(5000);
+        
+        
+         x.style.display = "none";
+         
+         alert("Result: It will take 3 years!");
+
+
+}
+
+var rangeslider = document.getElementById("slider");
+var output = document.getElementById("output");
+output.innerHTML = rangeslider.value;
+  
+rangeslider.oninput = function() {
+  output.innerHTML = this.value;
+}
+</script>
+
+</body>
+</html>
