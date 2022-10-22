@@ -6,11 +6,19 @@ page_order: 0
 ---
 
 # What's New
-Check out Find's timeline! We've made a lot of progress.
+Check out OpenFind's timeline! We've made a lot of progress.
+
+# Major update! `Find v2 → OpenFind`
+OpenFind (formerly **Find**) has been open-sourced!!!
+
+Several months ago I decided to take the app in a completely new direction - Find v3.
+
+[Find v3](https://getfind.app) is now available under the name **Find**.
+
+The older version of Find has been renamed to OpenFind to reflect its open source status!
+
 
 <div markdown="1" class="latest pinned">
-
-
 
 ###### Apr 22, 2022
 

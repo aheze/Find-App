@@ -95,18 +95,23 @@
                         </h2>
                     </div>
                     <div class="appDescriptionContainer">
-                        <p class="appDescription">
+                        <!-- <p class="appDescription">
                             {{ site.app_description }}
-                        </p>
+                        </p> -->
+
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/1CyVk51Ubgc" title="YouTube video player" frameborder="0" style="border-radius: 16px;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
+
                     <div class="downloadButtonsContainer">
                         <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStore"
                                 src="assets/AppStore.svg" alt="Download on the App Store"></a>
+                        <a class="appStoreLink" href="https://github.com/aheze/OpenFind"><img class="appStore"
+                            src="assets/GitHub.svg" alt="View source code on GitHub"></a>
                         <a class="appStoreLink" href="https://discord.gg/Pmq8fYcus2"><img class="appStore"
-                                src="assets/Discord.svg" alt="Download on the App Store"></a>
+                                src="assets/Discord.svg" alt="Join the Discord server"></a>
                     </div>
 
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/1CyVk51Ubgc" title="YouTube video player" frameborder="0" style="border-radius: 16px;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    
                     
                 </div>
 
@@ -117,10 +122,19 @@
                 {% include features.html %}
                 {% include footer.html %}
                 {% include appstoreimages.html %}
+
+                
             </div>
+
+            
         </div>
+
+
+        
     </div>
 
+
+    
 
 </body>
 

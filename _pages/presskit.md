@@ -6,7 +6,7 @@ page_order: 1
 ---
 
 # Press Kit
-Help Find grow! I'm Andrew, the developer of this app. I'm the only one here so I really appreciate your help :D If you have any questions just message me on [twitter](https://twitter.com/aheze0), [reddit](https://www.reddit.com/user/aheze), or [email](mailto:aheze@getfind.app).
+Help OpenFind grow! I'm Andrew, the developer of this app. I'm the only one here so I really appreciate your help :D If you have any questions just message me on [twitter](https://twitter.com/aheze0), [reddit](https://www.reddit.com/user/aheze), or [email](mailto:aheze@getfind.app).
 
 <div>
 <i class="iconTop fas fa-file-alt fa-stack-1x" style="position: relative; width: 40px; float: left; margin-top: -4px; margin-left: -8px; margin-right: 4px; font-size: 24px;"></i>
@@ -14,13 +14,13 @@ Help Find grow! I'm Andrew, the developer of this app. I'm the only one here so 
 <h2>Description</h2>
 </div>
 
-Find is an app to find text in real life. Look for text anywhere, whether that’s in screenshots, books, or even nutrition labels — all in real time. Search your entire photo library in a split second and organize it with stars. Find in real-time using the camera and speed through forms and worksheets. Create lists of allergies or dietary restrictions and find unwanted ingredients instantly. Find is faster than the human eye.
+OpenFind is an open-source app to find text in real life. Look for text anywhere, whether that’s in screenshots, books, or even nutrition labels — all in real time. Search your entire photo library in a split second and organize it with stars. OpenFind in real-time using the camera and speed through forms and worksheets. Create lists of allergies or dietary restrictions and find unwanted ingredients instantly. OpenFind is faster than the human eye.
 
 
-Find was designed with privacy in mind, so all processes happen offline and nothing ever leaves your phone. There are no servers, no data collection, no analytics, and no internet connection is required.
+OpenFind was designed with privacy in mind, so all processes happen offline and nothing ever leaves your phone. There are no servers, no data collection, no analytics, and no internet connection is required.
 
 
-Find is a free app. It has no ads, subscriptions, or in-app purchases.
+OpenFind is a free and open-source app. It has no ads, subscriptions, or in-app purchases, and the source code is released under the MIT license.
 
 
 <br>
@@ -58,7 +58,7 @@ Find is a free app. It has no ads, subscriptions, or in-app purchases.
   - Organize photos with stars.
   - Search in starred photos, screenshots, or all photos.
   - Superfast scanning (~10 photos per second on iPhone 13).
-  - Ignore photos that you don't want Find to scan.
+  - Ignore photos that you don't want OpenFind to scan.
   - Everything runs 100% offline and nothing ever leaves your device.
 - Camera. Scan through books and worksheets like they're nothing.
   - Look for text in real-time.

@@ -7,6 +7,13 @@ is_hidden: false
 ---
 
 # Translate Find
+
+OpenFind is not currently accepting translations. However, you can help translate Find, OpenFind's successor!
+
+***Find** is currently closed source.*
+
+--
+
 Find is translated by the community. Want to help? Get started with the [Translation Dashboard](https://crwd.in/find-app)!
 
 [![Go to Translation Dashboard]({{ '/assets/TranslationDashboard.jpg' | relative_url }})](https://crwd.in/find-app)

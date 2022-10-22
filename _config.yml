@@ -10,7 +10,7 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appIcon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : "Find: Make Photos Searchable"                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : "OpenFind: Text Search for Images"                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : An app to find text in real life.
 app_description                           : Look for text in screenshots, books, and even nutrition labels. Search your entire photo library, or use the camera and speed through forms and worksheets in seconds.
 
