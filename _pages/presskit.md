@@ -94,7 +94,7 @@ OpenFind is a free and open-source app. It has no ads, subscriptions, or in-app 
 
 {% include copy_header.html content="Find App Store URL" %}
 <pre class="link_block">
-https://apps.apple.com/app/id1506500202
+https://apps.apple.com/app/id6443969902
 </pre>
 
 {% include copy_header.html content="Find App Store Shortlink" %}

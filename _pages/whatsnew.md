@@ -22,7 +22,7 @@ The older version of Find has been renamed to OpenFind to reflect its open sourc
 
 ###### Apr 22, 2022
 
-### `Ultra Major Release` • [`Download Now!`](https://apps.apple.com/app/id1506500202)
+### `Ultra Major Release` • [`Download Now!`](https://apps.apple.com/app/id6443969902)
 # **Version 2.0.0**
 
 <img src="{{ '/assets/Header.png' | relative_url }}" alt="Version 2.0 graphic">
