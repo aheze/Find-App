@@ -2,7 +2,7 @@
 layout: page
 title: Press Kit
 include_in_header: true
-page_order: 1
+page_order: 2
 ---
 
 # Press Kit
