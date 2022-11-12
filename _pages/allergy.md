@@ -9,19 +9,19 @@ page_order: 1
 
 **[Download on the App Store](https://apps.apple.com/app/id6443969902) • [View Source Code](https://github.com/aheze/OpenFind)**
 
-OpenFind can scan nutrition labels and find ingredients that you're trying to avoid. Here's a demo video.
+OpenFind can scan nutrition labels and help you look out for ingredients. Here's a demo video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qljKHQNuQwU?cc_load_policy=1&cc_lang_pref=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Find ingredients
 
-OpenFind has no problem picking out "Flour" even though the text is so small.
+OpenFind has no problem picking out "Flour" even though the text is super small.
 
 !["Flour" highlighted in the ingredients list]({{ '/assets/FindIngredients.png' | relative_url }})
 
 ### Point-and-scan
 
-Just point your phone at the label — matching words will get highlighted.
+Just point your phone at the label and matching words will get highlighted.
 
 ![Phone pointed at cereal box with wheat ingredients highlighted]({{ '/assets/PointAndScan.jpg' | relative_url }})
 
