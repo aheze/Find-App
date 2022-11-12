@@ -14,13 +14,13 @@ Help OpenFind grow! I'm Andrew, the developer of this app. I'm the only one here
 <h2>Description</h2>
 </div>
 
-OpenFind is an open-source app to find text in real life. Look for text anywhere, whether that’s in screenshots, books, or even nutrition labels — all in real time. Search your entire photo library in a split second and organize it with stars. OpenFind in real-time using the camera and speed through forms and worksheets. Create lists of allergies or dietary restrictions and find unwanted ingredients instantly. OpenFind is faster than the human eye.
+OpenFind is an open-source app to find text in real life. Look for text anywhere, whether that’s in screenshots, books, or even nutrition labels — all in real time. Find in real-time using the camera and speed through forms and worksheets. Create lists of allergies or dietary restrictions and find unwanted ingredients instantly. OpenFind is faster than the human eye. Search your entire photo library in a split second and organize it with stars.
 
 
 OpenFind was designed with privacy in mind, so all processes happen offline and nothing ever leaves your phone. There are no servers, no data collection, no analytics, and no internet connection is required.
 
 
-OpenFind is a free and open-source app. It has no ads, subscriptions, or in-app purchases, and the source code is released under the MIT license.
+OpenFind is a free and open-source app. It has no ads, subscriptions, or in-app purchases, and the whole thing is released in the public domain.
 
 
 <br>
@@ -97,14 +97,10 @@ OpenFind is a free and open-source app. It has no ads, subscriptions, or in-app 
 https://apps.apple.com/app/id6443969902
 </pre>
 
-{% include copy_header.html content="Find App Store Shortlink" %}
-<pre class="link_block">
-https://as.getfind.app
-</pre>
 
 {% include copy_header.html content="Find Website" %}
 <pre class="link_block">
-https://getfind.app
+https://open.getfind.app
 </pre>
 
 {% include copy_header.html content="Find Discord" %}

@@ -17,32 +17,34 @@ OpenFind can scan nutrition labels and find ingredients that you're trying to av
 
 OpenFind has no problem picking out "Flour" even though the text is so small.
 
-![]({{ '/assets/FindIngredients.png' | relative_url }})
+!["Flour" highlighted in the ingredients list]({{ '/assets/FindIngredients.png' | relative_url }})
 
 ### Point-and-scan
 
 Just point your phone at the label — matching words will get highlighted.
 
-![]({{ '/assets/PointAndScan.jpg' | relative_url }})
+![Phone pointed at cereal box with wheat ingredients highlighted]({{ '/assets/PointAndScan.jpg' | relative_url }})
 
 
 ### Make custom ingredient lists
 
 Here's a list containing a bunch of dairy-related ingredients. 
 
-![]({{ '/assets/CustomList.png' | relative_url }})
+![List titled "Milk" alongside screenshot of its usage in the camera]({{ '/assets/CustomList.png' | relative_url }})
 
 ### Comes with 10+ lists preloaded
 
 Ingredients are pulled straight from the [Food Allergy Research & Education association](https://www.foodallergy.org/living-food-allergies/food-allergy-essentials/common-allergens). Some extra lists are included too.
 
-![]({{ '/assets/PreloadedLists.png' | relative_url }})
+![Milk, Egg, and Halal Restrictions lists]({{ '/assets/PreloadedLists.png' | relative_url }})
 
 ### Open-source, free forever.
 
 OpenFind is a project run by the community and maintained by [Andrew Zheng](https://twitter.com/aheze0). The app's entire source code is [available online](https://github.com/aheze/OpenFind) — edits, suggestions, and remixes are welcome.
 
-![]({{ '/assets/OpenFind.png' | relative_url }})
+Download it on the [App Store](https://apps.apple.com/app/id6443969902)!
+
+![Screenshot of OpenFind with the download link, open.getfind.app]({{ '/assets/OpenFind.png' | relative_url }})
 
 ---
 
