@@ -3,7 +3,7 @@ layout: page
 title: Translate Find
 include_in_header: false
 page_order: 5
-is_hidden: false
+is_hidden: true
 ---
 
 # Translate Find

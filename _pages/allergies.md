@@ -7,6 +7,8 @@ page_order: 1
 
 # For Allergies
 
+**[Download on the App Store](https://apps.apple.com/app/id6443969902) • [View Source Code](https://github.com/aheze/OpenFind)**
+
 OpenFind can scan nutrition labels and find ingredients that you're trying to avoid. Here's a demo video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qljKHQNuQwU?cc_load_policy=1&cc_lang_pref=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -26,14 +28,24 @@ Just point your phone at the label — matching words will get highlighted.
 
 ### Make custom ingredient lists
 
-OpenFind has no problem picking out "Butter" in the recipe even though the text is so small.
+Here's a list containing a bunch of dairy-related ingredients. 
 
 ![]({{ '/assets/CustomList.png' | relative_url }})
 
 ### Comes with 10+ lists preloaded
 
-Ingredients are pulled straight from the Food Allergy Research & Education association. Some extra lists are included too.
+Ingredients are pulled straight from the [Food Allergy Research & Education association](https://www.foodallergy.org/living-food-allergies/food-allergy-essentials/common-allergens). Some extra lists are included too.
 
 ![]({{ '/assets/PreloadedLists.png' | relative_url }})
 
-Here's a list containing a bunch of dairy-related ingredients. 
+### Open-source, free forever.
+
+OpenFind is a project run by the community and maintained by [Andrew Zheng](https://twitter.com/aheze0). The app's entire source code is [available online](https://github.com/aheze/OpenFind) — edits, suggestions, and remixes are welcome.
+
+![]({{ '/assets/OpenFind.png' | relative_url }})
+
+---
+
+<a class="appStoreLink" href="https://apps.apple.com/app/id6443969902"><img class="appStore" src="{{ '/assets/AppStore.svg' | relative_url }}" alt="Download on the App Store"></a>
+
+This app is released in the public domain. Feel free to use it however you'd like :)
